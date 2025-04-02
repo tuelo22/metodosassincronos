@@ -1,0 +1,6 @@
+@metodosassincronos.api_HostAddress = http://localhost:5259
+
+GET {{metodosassincronos.api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
